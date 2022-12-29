@@ -1,6 +1,6 @@
 ### Instructions
-- Clone the following git repository: https://github.com/Budgeat/codebytes.git
-- The main branch is protected so please make sure to push commits to a separate developer branch with your name
+- As part of this exercise you will be building a mobile app that tests your knowledge of both front-end and back-end concepts
+- Please start by creating a fork of the repo so you can push your changes to it
 - Make sure to commit your code as you complete each task
 - Complete all the tasks as described by their requirements
 - You have freedom over what technologies to use, but the preferred ones are:
