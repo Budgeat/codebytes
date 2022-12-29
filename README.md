@@ -42,7 +42,7 @@
 ######
 
 ### Submitting the code
-Please organize, design, test and document your code as if it were going into production. Once complete, push your final commit to your developer branch and let us know that you have completed the assignment along with your branch name. Please don’t make any changes to the code after you’ve submitted it.
+Please organize, design, test and document your code as if it were going into production. Once complete, push your final commit to your developer branch and let us know that you have completed the assignment along with your fork url and branch name. Make sure your repo is public so we can access it and please don’t make any changes to the code after you’ve submitted it.
 
 All the best and happy coding,
 
