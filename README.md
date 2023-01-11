@@ -1,7 +1,6 @@
 ### Instructions
 - As part of this exercise you will be building a mobile app that tests your knowledge of both front-end and back-end concepts
 - Please start by creating a fork of the repo so you can push your changes to it
-- Make sure to commit your code as you complete each task
 - Complete all the tasks as described by their requirements
 - You have freedom over what technologies to use, but the preferred ones are:
     - PHP/Laravel
@@ -42,7 +41,7 @@
 ######
 
 ### Submitting the code
-Please organize, design, test and document your code as if it were going into production. Once complete, push your final commit to your developer branch and let us know that you have completed the assignment along with your fork url and branch name. Make sure your repo is public so we can access it and please don’t make any changes to the code after you’ve submitted it.
+Please organize, design, test and document your code as if it were going into production. Once complete, push your final commit to your own developer branch and let us know that you have completed the assignment along with your fork url and branch name. Make sure your repo is public so we can access it and please don’t make any changes to the code after you’ve submitted it. If you have issues forking and pushing to your forked repository, please just send us a compressed folder with all your files.
 
 All the best and happy coding,
 
